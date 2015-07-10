@@ -17,3 +17,8 @@ Implemented in JavaScript.
 Find the longest compound-word in the list, which is also a concatenation of other sub-words that exist in the list.  
 
 ##### [Source List](http://norvig.com/ngrams/word.list)
+
+
+##### Instructions:
+ - `clone` the repo (install node if needed)
+ - `node ngrams.js`
